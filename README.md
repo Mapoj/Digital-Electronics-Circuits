@@ -1,3 +1,1 @@
-This Project demonstrated how a PC and a microcontroller may 
-communicate with one another using USART. Push buttons, LCD screens, and an Arduino 
-board were used in the assignment to show how computer elements may interact
+This course continues from the previous course in studying electronic systems and expands the study into specializations such as digital logic design, microprocessor systems and programmable logic devices. This course enables me to develop the advanced skills of designing, analyzing, and implementing complex digital systems that are essential in the current skills required for any electrical engineer. Majors, practical skills, and hands-on experience are training me for actual problems in telecommunications, automation, or computing industries. 
